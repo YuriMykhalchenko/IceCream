@@ -1,0 +1,26 @@
+@import './base/common';
+@import './base/reset';
+
+@import './utils/hidden';
+@import './utils/mixins';
+@import './utils/placeholders';
+@import './utils/vars';
+
+@import './components/container';
+@import './base/modal-components';
+
+@import './layouts/hero-header';
+@import './layouts/products';
+@import './layouts/about';
+@import './layouts/advantages';
+@import './layouts/gallery';
+@import './layouts/customer-reviews';
+@import './layouts/contacts';
+@import './layouts/footer';
+
+// @import './components/modal-1';
+@import './components/modal-buy-now';
+@import './components/modal-read-more';
+@import './components/franchise-modal';
+@import './components/locations-modal';
+@import './components/modal-ingredients';
